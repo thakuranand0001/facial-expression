@@ -3,7 +3,6 @@
 # facial-expression/
 #   train/{angry,disgust,fear,happy,neutral,sad,surprise}/
 #   test/{angry,disgust,fear,happy,neutral,sad,surprise}/
-
 import os
 import json
 import numpy as np
